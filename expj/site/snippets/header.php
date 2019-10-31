@@ -3,8 +3,9 @@
 
 	<head>
 		<?= css('assets/css/index.css') ?>
+		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<link href="https://fonts.googleapis.com/css?family=Noto+Serif+KR|Yeon+Sung&display=swap" rel="stylesheet">
-		<link href="https://fonts.googleapis.com/css?family=Montserrat&display=swap" rel="stylesheet">
+		<link href="https://fonts.googleapis.com/css?family=Nanum+Myeongjo&display=swap" rel="stylesheet">
 	</head>
 	
 	<body>
