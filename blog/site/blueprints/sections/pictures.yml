@@ -1,0 +1,9 @@
+# Files Section
+type     : files
+headline : Images and files
+type     : files
+empty    : Only the beautiful photos
+sortBy   : filename desc
+limit    : 10
+image    :
+    cover : true

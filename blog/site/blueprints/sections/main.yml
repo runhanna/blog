@@ -1,0 +1,11 @@
+# The section cntaining the main content of the page
+type   : fields
+fields :
+
+    # Blog Post Content
+    text:
+        label   : Post Content
+        counter : false
+        type: textarea
+        
+     
